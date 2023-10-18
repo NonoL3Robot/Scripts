@@ -2,7 +2,7 @@
 // @name            Youtube Adblock Popup Remover
 // @name:fr         
 // @namespace       NonoL3Robot Scripts
-// @version         1.0
+// @version         1.1
 // @description     Script which remove the Adblock Youtube popup 🚫
 // @description:fr  Script qui supprime la popup Adblock de Youtube 🚫
 // @author          NonoL3Robot (https://github.com.com/NonoL3Robot/)
