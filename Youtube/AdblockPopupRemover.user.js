@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name            Youtube Adblock Popup Remover
+// @name:fr         
 // @namespace       NonoL3Robot Scripts
 // @version         1.0
 // @description     Script which remove the Adblock Youtube popup 🚫
@@ -9,7 +10,7 @@
 // @updateURL       https://raw.githubusercontent.com/NonoL3Robot/Youtube/AntiAdblockPopupRemover.user.js
 // @downloadURL     https://raw.githubusercontent.com/NonoL3Robot/Youtube/AntiAdblockPopupRemover.user.js
 // @supportURL      https://github.com/NonoL3Robot/Scripts/issues
-// @match           https://youtube.com/watch?v=*
+// @match           https://www.youtube.com/watch?v=*
 // @grant           none
 // @compatible      chrome
 // ==/UserScript==
