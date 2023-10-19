@@ -2,7 +2,7 @@
 // @name            Youtube Adblock Popup Remover
 // @name:fr         Youtube Adblock Popup Remover
 // @namespace       NonoL3Robot Scripts
-// @version         1.3
+// @version         1.4
 // @description     Script which remove the Adblock Youtube popup 🚫
 // @description:fr  Script qui supprime la popup Adblock de Youtube 🚫
 // @author          NonoL3Robot (https://github.com.com/NonoL3Robot/)
@@ -18,8 +18,8 @@
 
 (function () {
     'use strict';
-
-    waitForKeyElements('ytd-popup-container', () => {
+    console.log("Youtube Adblock Popup Remover is running...");
+    waitForKeyElements('ytd-enforcement-message-view-model', () => {
         // remove popup
         document.querySelector('ytd-popup-container').style.setProperty('display', 'none');
         // remove overlay
