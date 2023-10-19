@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Youtube Adblock Popup Remover
-// @name:fr         
+// @name:fr         Youtube Adblock Popup Remover
 // @namespace       NonoL3Robot Scripts
 // @version         1.2
 // @description     Script which remove the Adblock Youtube popup 🚫
