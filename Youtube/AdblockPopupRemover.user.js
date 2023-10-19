@@ -19,11 +19,11 @@
 (function () {
     'use strict';
 
-    waitForKeyElements('ytd-popup-container'), () => {
+    waitForKeyElements('ytd-popup-container', () => {
         // remove popup
         document.querySelector('ytd-popup-container').style.setProperty('display', 'none');
         // remove overlay
         document.querySelector("tp-yt-iron-overlay-backdrop").className = 'closed';
         console.log("Popup successfully removed !");
-    }
+    })
 })();
